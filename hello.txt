@@ -2,4 +2,6 @@ hello, this is a new text file.
 if i learn well, the better i will be like.
 copy by hot-fix branch and modify.
 second change
+copy by hot-fix branch and modify. second change by hot-fix.
+
 
